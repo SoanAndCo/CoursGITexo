@@ -1,1 +1,3 @@
 Bonjour, je suis le premier fichier du projet
+
+Je suis complété par une équipe d'étudiant et je suis très petit
